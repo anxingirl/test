@@ -1,4 +1,5 @@
 new    
+locate modified
 test
 ====
 
